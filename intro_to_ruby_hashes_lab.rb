@@ -1,5 +1,6 @@
 def base_hash
-  monopoly = {key: }
+  monopoly = {
+    key: {}
 }
   monopoly
 end
